@@ -10,6 +10,13 @@
 
 ---
 
+## 🌱 Currently Learning
+- Building modern UIs with React and Tailwind CSS
+- Deepening knowledge in Python data libraries
+- Exploring AI models and Machine Learning basics
+
+---
+
 ## 🛠️ Skills & Technologies
 
 <div align="center">
@@ -34,13 +41,10 @@
 
 ---
 
-## 🌱 Currently Learning
-- Building modern UIs with React and Tailwind CSS
-- Deepening knowledge in Python data libraries
-- Exploring AI models and Machine Learning basics
-
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/mayar-qasarwa-971556219/)
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mayar-qasarwa-971556219/).
+
 
 ---
 
